@@ -1,0 +1,2 @@
+# Multi-Algorithm-Operating-System-Scheduler-Implementation-in-C-
+This C++ code implements several process scheduling algorithms commonly studied in operating system courses. The code includes implementations for the First Come First Serve (FCFS), Shortest Job Next (SJN) both preemptive and non-preemptive, Priority Scheduling (both preemptive and non-preemptive), Round Robin, and Banker's Algorithm.
